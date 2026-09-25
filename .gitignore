@@ -1,0 +1,21 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/mobile/quickserve_mobile/build/
+/mobile/quickserve_mobile/.dart_tool/
+/mobile/quickserve_mobile/.flutter-plugins
+/mobile/quickserve_mobile/.flutter-plugins-dependencies
+
+# Supabase local
+.supabase/

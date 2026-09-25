@@ -1,0 +1,6 @@
+{
+  "name": "QuickServe - Service Request Management System",
+  "description": "Production-grade Service Request Management System featuring Flutter mobile client, React admin portal, PostgreSQL database, Supabase Auth, Row Level Security (RLS), and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
